@@ -1,6 +1,6 @@
 # What is this?
 
-This is template for upload file to s3 in python.
+This is template for upload file to s3 in python.  
 You can upload file to s3, but canot delete, copy, read.
 
 # What you have to do
